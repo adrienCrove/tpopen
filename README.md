@@ -1,15 +1,19 @@
-# Ce projet marque mon avancée dans le cours sur git
+# Ce projet marque mon avancÃ©e dans le cours sur git
 l'exercice en question
 
-Cet exercice a pour objectif de mettre en pratique les notions que vous avez acquises dans les deux premières parties de ce cours sur Git et Github.
+Cet exercice a pour objectif de mettre en pratique les notions que vous avez acquises dans les deux premiÃ¨res parties de ce cours sur Git et Github.
 
-Vous devez créer un repository Git simple contenant :
+Vous devez crÃ©er un repository Git simple contenant :
 
-Un fichier nommé "README.txt" qui présente le projet;
+Un fichier nommÃ© "README.txt" qui prÃ©sente le projet;
 Au moins 2 autres fichiers de votre choix (ils peuvent contenir des scripts de code, du texte sur un projet personnel...);
-Au moins 4 commits distincts montrant l’ajout puis la modification de certains fichiers.
-Prêtez attention à la qualité de vos messages de commit et essayez d’être précis. Par exemple, évitez des commentaires comme “commit 1”, “commit 2” etc. qui n'expliquent pas les modifications que vous avez effectuées.
+Au moins 4 commits distincts montrant lâ€™ajout puis la modification de certains fichiers.
+PrÃªtez attention Ã  la qualitÃ© de vos messages de commit et essayez dâ€™Ãªtre prÃ©cis. Par exemple, Ã©vitez des commentaires comme â€œcommit 1â€, â€œcommit 2â€ etc. qui n'expliquent pas les modifications que vous avez effectuÃ©es.
 
-Une fois que vous avez créé votre repository Git, envoyez-le sur GitHub, puis copiez l’URL du repository GitHub créé spécialement pour cette activité (format: https://github.com/votrenomd'utilisateur/votreprojet). Par exemple, voici l'URL du repository GitHub nommé "Simple-Placeholder" que j'ai créé pour cette activité : https://github.com/marcgg/Simple-Placeholder
+Une fois que vous avez crÃ©Ã© votre repository Git, envoyez-le sur GitHub, puis copiez lâ€™URL du repository GitHub crÃ©Ã© spÃ©cialement pour cette activitÃ© (format: https://github.com/votrenomd'utilisateur/votreprojet). Par exemple, voici l'URL du repository GitHub nommÃ© "Simple-Placeholder" que j'ai crÃ©Ã© pour cette activitÃ© : https://github.com/marcgg/Simple-Placeholder
 
-Enfin, téléchargez ce document texte. Indiquez votre URL après "L'URL de mon repository sur GitHub" dans ce document texte, et enregistrez-le. Pour envoyer votre travail, compressez le document .txt que vous avez modifié dans un fichier .zip, et envoyez ce .zip.
+Enfin, tÃ©lÃ©chargez ce document texte. Indiquez votre URL aprÃ¨s "L'URL de mon repository sur GitHub" dans ce document texte, et enregistrez-le. Pour envoyer votre travail, compressez le document .txt que vous avez modifiÃ© dans un fichier .zip, et envoyez ce .zip.
+
+
+EPIGRAPHE
+"Si ils ne veulent pas faire de toi un Dieu, Fais de ta terre leur cieux"
